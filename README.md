@@ -16,6 +16,6 @@ For bugs, enhancements or support go to https://github.com/fabiovicenza/CloudPer
 https://zenodo.org/badge/DOI/10.5281/zenodo.2525736.svg
 
 
-![](http://www.consilium.europa.eu/images/img_flag-eu.gif) This work has received partial funding from the European Commission under grant agreements No. H2020-732258
+![](http://www.consilium.europa.eu/images/img_flag-eu.gif) This work has received partial funding from the European Commission under grant agreements No.732258
 
 
