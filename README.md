@@ -11,11 +11,7 @@ Waterbox geometry provided by Gilles Besombes
 
 For bugs, enhancements or support go to https://github.com/fabiovicenza/CloudPerfect_CFD/issues.
 
-Legal
-=====
-The Benchmarking Suite is released under the `Apache 2.0 <https://www.apache.org/licenses/LICENSE-2.0>`_ license.
+
+![](http://www.consilium.europa.eu/images/img_flag-eu.gif)This work has received partial funding from the European Commission under grant agreements No. FP7-317859 and No. H2020-732258
 
 
-+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| .. image:: http://www.consilium.europa.eu/images/img_flag-eu.gif |This work has received partial funding from the European Commission under grant agreements No. FP7-317859 and No. H2020-732258|
-+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
