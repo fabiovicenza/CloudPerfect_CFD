@@ -17,6 +17,6 @@ The Benchmarking Suite is released under the Apache 2.0 license.
 
 # DOI Zenodo
 
-![This work has received partial funding from the European Commission under grant agreements No. FP7-317859 and No. H2020-732258](http://www.consilium.europa.eu/images/img_flag-eu.gif?raw=true)
+![alt text](http://www.consilium.europa.eu/images/img_flag-eu.gif?raw=true)
 
 Copyright © 2014-2018 Engineering Ingegneria Informatica S.p.A. All rights reserved.
