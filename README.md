@@ -11,7 +11,7 @@ Waterbox geometry provided by Gilles Besombes
 
 For bugs, enhancements or support go to https://github.com/fabiovicenza/CloudPerfect_CFD/issues.
 
-# Zanodo DOI
+# Zenodo DOI
 
 https://zenodo.org/badge/doi/10.5281/zenodo.2525727.svg
 
